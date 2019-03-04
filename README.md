@@ -14,4 +14,4 @@ Pedir por teclado una calle y mostrar si hay o no empresas de alquiler de coches
 Pedir por teclado una subcadena y si corresponde con una empresa de alquiler mostrar su horario
 
 5º Ejercicio
-Pedir por teclado una subcadena y mostrar el nombre de la empresa, su horario, dirección y localización
+Pedir por teclado una dirección y mostrar el nombre de la empresa, número de teléfono, dirección web y sus coordenadas de localización

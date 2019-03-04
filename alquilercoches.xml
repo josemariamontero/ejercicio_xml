@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <directorios>
+      <directorio>
+         <element>
+            <categorias>
+               <categoria>
+                  <element>
+                     <content>Alquiler de Coches</content>
+                     <id>436</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Turismo</content>
+                     <id>165</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Movilidad</content>
+                     <id>198</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+               </categoria>
+            </categorias>
+            <correo-electronico />
+            <descripcion>
+               <rdfa-property>http://purl.org/dc/terms/description</rdfa-property>
+            </descripcion>
+            <direccion>
+               <element>Estación de Renfe-Feve Sanz Crespo, C/ Bohemia, 6 - 33207</element>
+               <element>
+                  <content>Estación de Renfe-Feve Sanz Crespo, C/ Bohemia, 6 - 33207</content>
+                  <rdfa-property>http://www.w3.org/2002/12/cal#street-address</rdfa-property>
+               </element>
+            </direccion>
+            <fax>985 388 977</fax>
+            <horario>L-V: 8:30-13:30 y 16:30-19:30; Sábado: 9:00-13:00</horario>
+            <identificador>10284</identificador>
+            <locale>es</locale>
+            <localizacion>
+               <content>43.537181 -5.67536</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#location</rdfa-property>
+            </localizacion>
+            <nombre>
+               <content>Enterprise Rent a Car</content>
+               <rdfa-property>http://www.geonames.org/ontology#name</rdfa-property>
+            </nombre>
+            <rdfa-id>http://www.gijon.es/directorios/show/10284-enterprise-rent-a-car</rdfa-id>
+            <send>fecha-actualizacion2015-06-09 14:21:42 +0200</send>
+            <telefono>
+               <content>985 154 121</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#tel</rdfa-property>
+            </telefono>
+            <tipo>Alquiler de Coches,Movilidad</tipo>
+            <url>http://www.gijon.es/directorios/show/10284-enterprise-rent-a-car</url>
+            <web>http://www.enterprise.es</web>
+         </element>
+         <element>
+            <categorias>
+               <categoria>
+                  <element>
+                     <content>Alquiler de Coches</content>
+                     <id>436</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Turismo</content>
+                     <id>165</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Movilidad</content>
+                     <id>198</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+               </categoria>
+            </categorias>
+            <correo-electronico />
+            <descripcion>
+               <rdfa-property>http://purl.org/dc/terms/description</rdfa-property>
+            </descripcion>
+            <direccion>
+               <element>Plaza Nicanor Piñole, 3 - 33205</element>
+               <element>
+                  <content>Plaza Nicanor Piñole, 3 - 33205</content>
+                  <rdfa-property>http://www.w3.org/2002/12/cal#street-address</rdfa-property>
+               </element>
+            </direccion>
+            <fax>985 340 809</fax>
+            <horario>L-V 8:30-13:30 y 16:00-19:30; Sábados: 9:30-13:00; Domingos y festivos: 10:00-13:00</horario>
+            <identificador>10276</identificador>
+            <locale>es</locale>
+            <localizacion>
+               <content>43.538154 -5.661289</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#location</rdfa-property>
+            </localizacion>
+            <nombre>
+               <content>Avis</content>
+               <rdfa-property>http://www.geonames.org/ontology#name</rdfa-property>
+            </nombre>
+            <rdfa-id>http://www.gijon.es/directorios/show/10276-avis</rdfa-id>
+            <send>fecha-actualizacion2015-06-09 14:23:42 +0200</send>
+            <telefono>
+               <content>985 354 208, 985 340 809, 902 090 252 (Información)</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#tel</rdfa-property>
+            </telefono>
+            <tipo>Alquiler de Coches,Movilidad</tipo>
+            <url>http://www.gijon.es/directorios/show/10276-avis</url>
+            <web>http://www.avis.es</web>
+         </element>
+         <element>
+            <categorias>
+               <categoria>
+                  <element>
+                     <content>Alquiler de Coches</content>
+                     <id>436</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Turismo</content>
+                     <id>165</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Movilidad</content>
+                     <id>198</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+               </categoria>
+            </categorias>
+            <correo-electronico />
+            <descripcion>
+               <rdfa-property>http://purl.org/dc/terms/description</rdfa-property>
+            </descripcion>
+            <direccion>
+               <element>C/ Arquímedes, 122 - Polígono Industrial de Roces III - 33211</element>
+               <element>
+                  <content>C/ Arquímedes, 122 - Polígono Industrial de Roces III - 33211</content>
+                  <rdfa-property>http://www.w3.org/2002/12/cal#street-address</rdfa-property>
+               </element>
+            </direccion>
+            <fax>985 165 002</fax>
+            <horario>Lunes a Viernes: 8:00-17:00</horario>
+            <identificador>10261</identificador>
+            <locale>es</locale>
+            <localizacion>
+               <content>43.504057 -5.696113</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#location</rdfa-property>
+            </localizacion>
+            <nombre>
+               <content>Go Rent a Car</content>
+               <rdfa-property>http://www.geonames.org/ontology#name</rdfa-property>
+            </nombre>
+            <rdfa-id>http://www.gijon.es/directorios/show/10261-go-rent-a-car</rdfa-id>
+            <send>fecha-actualizacion2015-06-09 14:07:08 +0200</send>
+            <telefono>
+               <content>985 171 592 (Gijón), 985 965 545 (Oviedo)</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#tel</rdfa-property>
+            </telefono>
+            <tipo>Alquiler de Coches,Movilidad</tipo>
+            <url>http://www.gijon.es/directorios/show/10261-go-rent-a-car</url>
+            <web>http://gorentacar.es/</web>
+         </element>
+         <element>
+            <categorias>
+               <categoria>
+                  <element>
+                     <content>Alquiler de Coches</content>
+                     <id>436</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>2013</content>
+                     <id>2841</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Movilidad</content>
+                     <id>198</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+               </categoria>
+            </categorias>
+            <correo-electronico>&lt;a href="http://info@gorentacar.es" title="Ir a info@gorentacar.es" rel="external"&gt;info@gorentacar.es&lt;/a&gt;</correo-electronico>
+            <descripcion>
+               <content>GO Rentacar pertenece al grupo Gomez Oviedo, con más de 60 años de experiencia en el sector del alquiler, principalmente a empresas. GO Rentacar nace con el objetivo de ofrecer servicios de alquiler a particulares a lo largo de toda la geografía asturiana.&lt;br/&gt;&lt;br/&gt;En GO Rentacar queremos ofrecerte un servicio claro y sin complicaciones. El precio que verás en nuestra página web es el precio final que pagarás por el servicio de alquiler. Sin cargos ocultos ni sorpresas de última hora.</content>
+               <rdfa-property>http://purl.org/dc/terms/description</rdfa-property>
+            </descripcion>
+            <direccion>
+               <element>Antigua Estacion Feve - Pza del Humedal</element>
+               <element>
+                  <content>Antigua Estacion Feve - Pza del Humedal</content>
+                  <rdfa-property>http://www.w3.org/2002/12/cal#street-address</rdfa-property>
+               </element>
+            </direccion>
+            <fax />
+            <foto>
+               <content>http://www.gijon.es/data/images/f0/f5/56965/326x181_v1_gorent.JPG</content>
+               <rdfa-property>http://purl.org/dc/terms/relation</rdfa-property>
+            </foto>
+            <horario>Lunes a viernes 9:00 - 13:30 y 16:00 - 19:30. Sábados 9:00 - 12:00</horario>
+            <identificador>9690</identificador>
+            <locale>es</locale>
+            <localizacion>
+               <content>43.540438 -5.666296</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#location</rdfa-property>
+            </localizacion>
+            <nombre>
+               <content>GO Rentacar</content>
+               <rdfa-property>http://www.geonames.org/ontology#name</rdfa-property>
+            </nombre>
+            <rdfa-id>http://www.gijon.es/directorios/show/9690-go-rentacar</rdfa-id>
+            <send>fecha-actualizacion2014-01-22 12:06:31 +0100</send>
+            <telefono>
+               <content>985 17 15 92</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#tel</rdfa-property>
+            </telefono>
+            <tipo>Alquiler de Coches,Movilidad</tipo>
+            <url>http://www.gijon.es/directorios/show/9690-go-rentacar</url>
+            <web>http://gorentacar.es/</web>
+         </element>
+         <element>
+            <categorias>
+               <categoria>
+                  <element>
+                     <content>Alquiler de vehículos</content>
+                     <id>1262</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Congresos</content>
+                     <id>597</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Alquiler de Coches</content>
+                     <id>436</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Club de Empresas de Turismo de Negocios</content>
+                     <id>2898</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Movilidad</content>
+                     <id>198</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+               </categoria>
+            </categorias>
+            <correo-electronico>info@alcucar.com</correo-electronico>
+            <descripcion>
+               <content>Con más de 20 años de experiencia en el sector, ofrecemos nuestros servicios garantizando seriedad, discreción, efectividad y aseguramos un trato cordial y personalizado.&lt;br/&gt;&lt;br/&gt;Empresa certificada con sello de Calidad ER-0009/2015, nuestro compromiso es conseguir la máxima satisfacción de nuestros clientes.&lt;br/&gt;&lt;br/&gt;Nuestra actividad es:&lt;br/&gt;&lt;br/&gt;&lt;a href="http://alcucar.com/alquiler-de-vehiculos-con-conductor/" title="Ir a http://alcucar.com/alquiler-de-vehiculos-con-conductor/" rel="external"&gt;Alquiler de vehículos con conductor&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Ofrecemos vehículos de muy alta gama, elegantes, amplios y muy confortables.&lt;br/&gt;&lt;br/&gt;&lt;a href="http://alcucar.com/alquiler-de-vehiculos-sin-conductor/" title="Ir a http://alcucar.com/alquiler-de-vehiculos-sin-conductor/" rel="external"&gt;Alquiler de vehículos sin conductor&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Ponemos a su disposición vehículos en perfecto estado de conservación y limpieza.&lt;br/&gt;&lt;br/&gt;&lt;a href="http://alcucar.com/eventos-especiales/" title="Ir a http://alcucar.com/eventos-especiales/" rel="external"&gt;Eventos especiales&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Bodas, despedidas, publicidad, congresos, alquiler de autocares.&lt;br/&gt;&lt;br/&gt;&lt;a href="http://alcucar.com/disposicion-de-conductores/" title="Ir a http://alcucar.com/disposicion-de-conductores/" rel="external"&gt;Disposición de conductores&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Conductores profesionales, uniformados y bilingües, altamente cualificados y titulados con cursos de conducción para conducir sus vehículos.</content>
+               <rdfa-property>http://purl.org/dc/terms/description</rdfa-property>
+            </descripcion>
+            <direccion>
+               <element>C/ Tenderina 45- bajo 33010-Oviedo</element>
+               <element>
+                  <content>C/ Tenderina 45- bajo 33010-Oviedo</content>
+                  <rdfa-property>http://www.w3.org/2002/12/cal#street-address</rdfa-property>
+               </element>
+            </direccion>
+            <fax>985 79 05 75</fax>
+            <foto>
+               <content>http://www.gijon.es/data/images/f0/f7/77718/241x161_v1_Nuevaimagen%281%29.png</content>
+               <rdfa-property>http://purl.org/dc/terms/relation</rdfa-property>
+            </foto>
+            <horario />
+            <identificador>6497</identificador>
+            <locale>es</locale>
+            <localizacion>
+               <content>43.364943 -5.834033</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#location</rdfa-property>
+            </localizacion>
+            <nombre>
+               <content>Alcucar</content>
+               <rdfa-property>http://www.geonames.org/ontology#name</rdfa-property>
+            </nombre>
+            <rdfa-id>http://www.gijon.es/directorios/show/6497-alcucar</rdfa-id>
+            <send>fecha-actualizacion2017-07-12 15:04:48 +0200</send>
+            <telefono>
+               <content>+34 985 79 05 75</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#tel</rdfa-property>
+            </telefono>
+            <tipo>Alquiler de Coches,Movilidad</tipo>
+            <url>http://www.gijon.es/directorios/show/6497-alcucar</url>
+            <web>http://www.alcucar.com</web>
+         </element>
+         <element>
+            <categorias>
+               <categoria>
+                  <element>
+                     <content>Alquiler de Coches</content>
+                     <id>436</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Congresos</content>
+                     <id>597</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Alquiler de vehículos</content>
+                     <id>1262</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Movilidad</content>
+                     <id>198</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Club de Empresas de Turismo de Negocios</content>
+                     <id>2898</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+               </categoria>
+            </categorias>
+            <correo-electronico>asturcar@asturcar.net</correo-electronico>
+            <descripcion>
+               <content>Servicios de alquiler de vehículos con chófer. Empresa especializada en transporte para congresos y reuniones, traslados al aeropuerto, disposiciones, viajes y excursiones.&lt;br/&gt;&lt;br/&gt;Nuestra flota está formada por vehículos de gama alta, Mercedes, Audi… y nuestros conductores son profesionales, disponemos de consultores de habla inglesa. Disponemos de alquiler de vehiculos y alquiler de autobuses.&lt;br/&gt;&lt;br/&gt;Nuestra experiencia garantiza eficacia, comodidad y seguridad para todos nuestros clientes en cada viaje.&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;&#xD;
+&lt;h3&gt;Persona de contacto:&lt;/h3&gt;D. Jesús Lucio García Menéndez</content>
+               <rdfa-property>http://purl.org/dc/terms/description</rdfa-property>
+            </descripcion>
+            <direccion>
+               <element>Estación autobuses Oviedo, Avda. Pepe Cosmen, s/n, 33201 Oviedo</element>
+               <element>
+                  <content>Estación autobuses Oviedo, Avda. Pepe Cosmen, s/n, 33201 Oviedo</content>
+                  <rdfa-property>http://www.w3.org/2002/12/cal#street-address</rdfa-property>
+               </element>
+            </direccion>
+            <fax>985 21 63 70</fax>
+            <foto>
+               <content>http://www.gijon.es/data/images/f0/f7/77717/226x124_v1_Nuevaimagen%282%29.png</content>
+               <rdfa-property>http://purl.org/dc/terms/relation</rdfa-property>
+            </foto>
+            <horario />
+            <identificador>2781</identificador>
+            <locale>es</locale>
+            <localizacion>
+               <content>43.365559 -5.846392</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#location</rdfa-property>
+            </localizacion>
+            <nombre>
+               <content>Astur-Car</content>
+               <rdfa-property>http://www.geonames.org/ontology#name</rdfa-property>
+            </nombre>
+            <rdfa-id>http://www.gijon.es/directorios/show/2781-astur-car</rdfa-id>
+            <send>fecha-actualizacion2017-07-10 13:09:16 +0200</send>
+            <telefono>
+               <content>+34 902 22 28 18 /+34 985 21 36 20/ + 34 636 937 335 (24h.)</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#tel</rdfa-property>
+            </telefono>
+            <tipo>Alquiler de Coches,Movilidad</tipo>
+            <url>http://www.gijon.es/directorios/show/2781-astur-car</url>
+            <web>http://www.asturcar.net/</web>
+         </element>
+         <element>
+            <categorias>
+               <categoria>
+                  <content>Alquiler de Coches</content>
+                  <id>436</id>
+                  <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+               </categoria>
+            </categorias>
+            <correo-electronico />
+            <descripcion>
+               <rdfa-property>http://purl.org/dc/terms/description</rdfa-property>
+            </descripcion>
+            <direccion>
+               <element>Avda. Castilla, 10</element>
+               <element>
+                  <content>Avda. Castilla, 10</content>
+                  <rdfa-property>http://www.w3.org/2002/12/cal#street-address</rdfa-property>
+               </element>
+            </direccion>
+            <fax>985 132 207</fax>
+            <horario>Lunes a Jueves: 9:00-14:00h. y 15:30-18:30h. Viernes: 8:00-14:30h.</horario>
+            <identificador>1770</identificador>
+            <locale>es</locale>
+            <localizacion>
+               <content>43.537229 -5.646721</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#location</rdfa-property>
+            </localizacion>
+            <nombre>
+               <content>Mapfre</content>
+               <rdfa-property>http://www.geonames.org/ontology#name</rdfa-property>
+            </nombre>
+            <rdfa-id>http://www.gijon.es/directorios/show/1770-mapfre</rdfa-id>
+            <send>fecha-actualizacion2014-01-22 12:03:08 +0100</send>
+            <telefono>
+               <content>985 331 211</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#tel</rdfa-property>
+            </telefono>
+            <tipo>Alquiler de Coches</tipo>
+            <url>http://www.gijon.es/directorios/show/1770-mapfre</url>
+            <web />
+         </element>
+         <element>
+            <categorias>
+               <categoria>
+                  <content>Alquiler de Coches</content>
+                  <id>436</id>
+                  <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+               </categoria>
+            </categorias>
+            <correo-electronico>atencion.cliente@pepecar.com; sugerencias.pepecar@pepecar.com</correo-electronico>
+            <descripcion>
+               <rdfa-property>http://purl.org/dc/terms/description</rdfa-property>
+            </descripcion>
+            <direccion>
+               <element>Avda. de  Portugal, 14</element>
+               <element>
+                  <content>Avda. de  Portugal, 14</content>
+                  <rdfa-property>http://www.w3.org/2002/12/cal#street-address</rdfa-property>
+               </element>
+            </direccion>
+            <fax />
+            <foto>
+               <content>http://www.gijon.es/data/images/f6/6887/297x223_v1_DirectorioalquilercochesPepecar.JPG</content>
+               <rdfa-property>http://purl.org/dc/terms/relation</rdfa-property>
+            </foto>
+            <horario>Lunes a VIernes:8:00-14:00 y 16:00-20:00h  Sábados:9:00-14:00h.</horario>
+            <identificador>1155</identificador>
+            <locale>es</locale>
+            <localizacion>
+               <content>43.5392 -5.668385</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#location</rdfa-property>
+            </localizacion>
+            <nombre>
+               <content>Pepecar</content>
+               <rdfa-property>http://www.geonames.org/ontology#name</rdfa-property>
+            </nombre>
+            <rdfa-id>http://www.gijon.es/directorios/show/1155-pepecar</rdfa-id>
+            <send>fecha-actualizacion2014-01-22 12:02:50 +0100</send>
+            <telefono>
+               <content>807 414 243</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#tel</rdfa-property>
+            </telefono>
+            <tipo>Alquiler de Coches</tipo>
+            <url>http://www.gijon.es/directorios/show/1155-pepecar</url>
+            <web />
+         </element>
+         <element>
+            <categorias>
+               <categoria>
+                  <element>
+                     <content>Alquiler de Coches</content>
+                     <id>436</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Turismo</content>
+                     <id>165</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Movilidad</content>
+                     <id>198</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+               </categoria>
+            </categorias>
+            <correo-electronico />
+            <descripcion>
+               <content>&lt;h3&gt;Servicios:&lt;/h3&gt;Vehículos industriales.</content>
+               <rdfa-property>http://purl.org/dc/terms/description</rdfa-property>
+            </descripcion>
+            <direccion>
+               <element>C/ Anselmo Cifuentes, 12 - 33205</element>
+               <element>
+                  <content>C/ Anselmo Cifuentes, 12 - 33205</content>
+                  <rdfa-property>http://www.w3.org/2002/12/cal#street-address</rdfa-property>
+               </element>
+            </direccion>
+            <fax>985 350 916</fax>
+            <foto>
+               <content>http://www.gijon.es/data/images/f6/6677/297x223_v1_DirectorioalquilercochesHertz.JPG</content>
+               <rdfa-property>http://purl.org/dc/terms/relation</rdfa-property>
+            </foto>
+            <horario>Lunes a viernes: 9:00 h. a 13:00 h. y 16:30 h. a 19:00 h.&lt;br/&gt;                                     Sábado:9:30 h. a 12:00 h.</horario>
+            <identificador>793</identificador>
+            <locale>es</locale>
+            <localizacion>
+               <content>43.53843 -5.662218</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#location</rdfa-property>
+            </localizacion>
+            <nombre>
+               <content>Hertz España</content>
+               <rdfa-property>http://www.geonames.org/ontology#name</rdfa-property>
+            </nombre>
+            <rdfa-id>http://www.gijon.es/directorios/show/793-hertz-espana</rdfa-id>
+            <send>fecha-actualizacion2015-06-09 11:12:19 +0200</send>
+            <telefono>
+               <content>985 355 050 (información y reservas)</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#tel</rdfa-property>
+            </telefono>
+            <tipo>Alquiler de Coches,Movilidad</tipo>
+            <url>http://www.gijon.es/directorios/show/793-hertz-espana</url>
+            <web>http://www.hertz.es</web>
+         </element>
+         <element>
+            <categorias>
+               <categoria>
+                  <element>
+                     <content>Alquiler de Coches</content>
+                     <id>436</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>2010</content>
+                     <id>12</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Gijón</content>
+                     <id>44</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Turismo</content>
+                     <id>165</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Movilidad</content>
+                     <id>198</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+               </categoria>
+            </categorias>
+            <correo-electronico />
+            <descripcion>
+               <rdfa-property>http://purl.org/dc/terms/description</rdfa-property>
+            </descripcion>
+            <direccion>
+               <element>Estación de Renfe-Feve Sanz Crespo. C/Bohemía,6 - 33207</element>
+               <element>
+                  <content>Estación de Renfe-Feve Sanz Crespo. C/Bohemía,6 - 33207</content>
+                  <rdfa-property>http://www.w3.org/2002/12/cal#street-address</rdfa-property>
+               </element>
+            </direccion>
+            <fax />
+            <horario>Lunes a Viernes: 9:00-13:30h. y 16:00-19:30h. Sábados: 9:00-13:00h.</horario>
+            <identificador>609</identificador>
+            <locale>es</locale>
+            <localizacion>
+               <content>43.537213 -5.675436</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#location</rdfa-property>
+            </localizacion>
+            <nombre>
+               <content>Europcar</content>
+               <rdfa-property>http://www.geonames.org/ontology#name</rdfa-property>
+            </nombre>
+            <rdfa-id>http://www.gijon.es/directorios/show/609-europcar</rdfa-id>
+            <send>fecha-actualizacion2015-06-09 14:09:45 +0200</send>
+            <telefono>
+               <content>985 165 126, 902 503 010 (Información y reservas)</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#tel</rdfa-property>
+            </telefono>
+            <tipo>Alquiler de Coches,Movilidad</tipo>
+            <url>http://www.gijon.es/directorios/show/609-europcar</url>
+            <web>http://www.europcar.es</web>
+         </element>
+         <element>
+            <categorias>
+               <categoria>
+                  <element>
+                     <content>Alquiler de Coches</content>
+                     <id>436</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>2010</content>
+                     <id>12</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+                  <element>
+                     <content>Gijón</content>
+                     <id>44</id>
+                     <rdfa-property>http://purl.org/dc/terms/subject</rdfa-property>
+                  </element>
+               </categoria>
+            </categorias>
+            <correo-electronico>grgijon@grh.es</correo-electronico>
+            <descripcion>
+               <content>grupo empresarial con más de 50 años de experiencia en el mercado asturiano. En la actualidad nos centramos en dos áreas de negocio bien definidas: Automoción y Maquinaria de Hostelería.</content>
+               <rdfa-property>http://purl.org/dc/terms/description</rdfa-property>
+            </descripcion>
+            <direccion>
+               <element>Avda.de La Constitución, 54</element>
+               <element>
+                  <content>Empresar Reunidas García Rodriguez Hnos. - Avda.de La Constitución, 54</content>
+                  <rdfa-property>http://www.w3.org/2002/12/cal#street-address</rdfa-property>
+               </element>
+            </direccion>
+            <fax>985 357 246</fax>
+            <horario />
+            <identificador>580</identificador>
+            <locale>es</locale>
+            <localizacion>
+               <content>43.534291 -5.669173</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#location</rdfa-property>
+            </localizacion>
+            <nombre>
+               <content>Empresas Reunidas Garcia Rodriguez Hnos.</content>
+               <rdfa-property>http://www.geonames.org/ontology#name</rdfa-property>
+            </nombre>
+            <rdfa-id>http://www.gijon.es/directorios/show/580-empresas-reunidas-garcia-rodriguez-hnos</rdfa-id>
+            <send>fecha-actualizacion2014-01-22 12:02:34 +0100</send>
+            <telefono>
+               <content>985 355 056</content>
+               <rdfa-property>http://www.w3.org/2002/12/cal#tel</rdfa-property>
+            </telefono>
+            <tipo>Alquiler de Coches</tipo>
+            <url>http://www.gijon.es/directorios/show/580-empresas-reunidas-garcia-rodriguez-hnos</url>
+            <web />
+         </element>
+      </directorio>
+      <rdfa>true</rdfa>
+      <rdfa-class>http://www.geonames.org/ontology#Feature</rdfa-class>
+   </directorios>
+</root>
+
+

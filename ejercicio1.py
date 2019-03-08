@@ -1,11 +1,12 @@
 from lxml import etree
 doc = etree.parse('alquilercoches.xml')
 
-def buscar(doc):
-	tlf = doc.xpath('//telefono/content/text()')
-	#for i in doc:
-	#	compañias = doc.xpath('//telefono[content="%s"]/text()/')
+def buscar(telefono,doc):
+	telefonos = doc.xpath('//telefono[content="%s"]/../nombre/content/text()' % telefono) 
+	return telefonos
 
-	return tlf
+telefono = input("Introduce un numero de telefono: ")
 
-print (buscar(doc))
+print (buscar(telefono,doc))
+
+#//telefono[starts-with(content,'985')]/../nombre/content/text()

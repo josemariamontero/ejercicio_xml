@@ -12,7 +12,8 @@ nombre = input("Introduce el nombre de una calle: ")
 
 nombre,telefono,web,localizacion = variados(nombre,doc)
 
-print ("Nombre de la empresa:",nombre)
-print ("Numero de telefono:",telefono)
-print ("Direccion de la pagina web:",web)
-print ("Coordena de localizacion:",localizacion)
+for i,x,y,o in zip(nombre,telefono,web,localizacion):
+	print ("Nombre de la empresa:",i)
+	print ("Numero de telefono:",x)
+	print ("Direccion de la pagina web:",y)
+	print ("Coordena de localizacion:",o)
